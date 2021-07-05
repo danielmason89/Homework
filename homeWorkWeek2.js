@@ -1,5 +1,5 @@
 let pizzaPlace = "Dominos";
-let numberOfToppings = 0;
+let numberOfToppings = 12;
 
 console.log(pizzaPlace, typeof pizzaPlace);
 console.log(numberOfToppings, typeof numberOfToppings);
