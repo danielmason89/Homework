@@ -13,5 +13,5 @@ if (numberOfToppings >= 10) {
 };
 
 for (let numberOfToppings = 1; numberOfToppings <= 10; numberOfToppings++) {
-    console.log(`The House of Pizza string 8 number At The House of Pizza, we have 8 toppings. Quality, not quantity.`)
+    console.log(`The House of Pizza string ${numberOfToppings} number At The House of Pizza, we have ${numberOfToppings} toppings. Quality, not quantity.`)
 };
