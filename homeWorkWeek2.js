@@ -7,8 +7,7 @@ console.log(`The pizza from ${pizzaPlace} is good though you're better off with 
 
 if (numberOfToppings <= 10) {
     console.log("Quality, not quantity");
-};
-if (numberOfToppings >= 10) {
+} else {
     console.log("A whole lot of pizza");
 };
 
