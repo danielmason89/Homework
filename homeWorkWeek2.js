@@ -1,9 +1,6 @@
 let pizzaPlace = "Dominos";
 let numberOfToppings = 12;
-
-console.log(pizzaPlace, typeof pizzaPlace);
-console.log(numberOfToppings, typeof numberOfToppings);
-console.log(`The pizza from ${pizzaPlace} is good though you're better off with getting just ${numberOfToppings} toppings.`);
+console.log(`The pizza from ${pizzaPlace} ${typeof pizzaPlace} is good though you're better off with getting just ${numberOfToppings} ${typeof numberOfToppings} toppings.`);
 
 if (numberOfToppings < 10) {
     console.log("Quality, not quantity");
