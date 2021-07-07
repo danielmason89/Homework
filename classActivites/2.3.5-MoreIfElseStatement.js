@@ -8,5 +8,5 @@ if (num > 100) {
 } else if (num >= 45) {
     console.log("The number is greater than or equal to 45.")
 } else {
-    console.log("The number is one of these three numbers:,,.")
+    console.log("The number is one of these three numbers:")
 };
